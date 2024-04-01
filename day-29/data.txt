@@ -1,0 +1,3 @@
+facebook|12334|12334facebook|email@email.com|12345
+insta|email@email.com|qwertz
+face|email@email.com|123456
